@@ -9,7 +9,7 @@
 | Programming | Databases | Cloud    | Data Tools | DevOps   |
 |-------------|-----------|----------|------------|----------|
 | Python      | PostgreSQL| AWS      | Airflow    | Docker   |
-| SQL         | MySQL     | GCP      | DBT        | Git      |
+| SQL         | MySQL     | GCP      | dbt        | Git      |
 |             |           |          |            |          |
 |             |           |          |            |          |
 |             |           |          |            |          |
