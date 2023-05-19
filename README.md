@@ -16,9 +16,10 @@
 
 
 ### Placeholder for certifications
-* Google Data Analytics
-* LPI Essentials
+* Snowflake Snowpro Core 
 * Astronomer Apache Airflow Fundamentals
+* Linux Professional Institute LPI Essentials
+* Google Data Analytics
 
 ### Data Pipeline Projects
 * placeholder1
