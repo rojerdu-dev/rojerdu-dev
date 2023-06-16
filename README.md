@@ -17,7 +17,7 @@
 |             |           |          |            |          |
 
 
-### Current Professional Certifications ✅ ✅ ✅ ✅
+### Current Professional Certifications 🏆 ✅ 🏆 ✅ 
 * Snowflake SnowPro Core 
 * Astronomer Apache Airflow Fundamentals
 * Google Data Analytics
