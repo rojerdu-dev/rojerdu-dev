@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### I'm Rojer. Based in Irvine, CA 🏴󠁵󠁳󠁣󠁡󠁿  
+### I'm Rojer (pronounced Roger) based in sunny California ☀️🏄‍♂️
 
-My data engineering approach is rooted in the philosophy of kaizen, or embracing constant improvement 🧠 📚 ⚙️ 🛠️ 📈  
+My philosophy is rooted in kaizen, or embracing constant improvement 🧠 📚 ⚙️ 🛠️ 📈  
 
 Currently, I'm building innovative data engineering projects to further enhance my skills 👨‍💻 🏗️ 📡  
 
