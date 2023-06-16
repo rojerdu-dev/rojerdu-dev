@@ -1,38 +1,31 @@
 ### Hi there 👋
 
-### Placeholder for intro one-liner 
+### Please take a look at my skills and projects 🛠️⚙️🛠️⚙️🛠️
 
-### Check out my website -> (placeholder for eventual website)
+### My data engineering approach is rooted in the philosophy of kaizen, or embracing constant improvement 📈 📚 🧠 📈 📚 🧠 
+
+### Currently, I'm focused on building innovative data engineering projects to further enhance my skills in the field 👨‍💻 🏗️ 📡  
 
 ### Skills Matrix 🔨
 
 | Programming | Databases | Cloud    | Data Tools | DevOps   |
 |-------------|-----------|----------|------------|----------|
-| Python      | PostgreSQL| AWS      | Airflow    | Docker   |
+| Python      | PostgreSQL| Snowflake| Airflow    | Docker   |
 | SQL         | MySQL     | GCP      | dbt        | Git      |
 |             |           |          |            |          |
 |             |           |          |            |          |
 |             |           |          |            |          |
 
 
-### Placeholder for certifications
-* Snowflake Snowpro Core 
+### Current Professional Certifications ✅ ✅ ✅ ✅
+* Snowflake SnowPro Core 
 * Astronomer Apache Airflow Fundamentals
-* Linux Professional Institute LPI Essentials
 * Google Data Analytics
-
-### Data Pipeline Projects
-* placeholder1
-* placeholder2
-
-### Python Projects
-* placeholder1
-* placeholder2
+* Linux Professional Institute LPI Essentials
 
 
-# SQL Scripts
-* placeholder1
-* placeholder2
+### My Latest Data Engineering Projects 👇👇👇👇 
+*  {placeholder for project repo link}
 
 <!--
 **rojerdu-dev/rojerdu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
