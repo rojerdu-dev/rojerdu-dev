@@ -1,12 +1,17 @@
 ### Hi there 👋
 
-### I'm Rojer (pronounced Roger) based in sunny California ☀️🏄‍♂️
+### About Me 
+* My name is Rojer (pronounced Roger) 🙋‍♂️
+* Based in sunny California ☀️🏄‍♂️
+* I do data engineering 👷
+
 
 My philosophy is rooted in kaizen, or embracing constant improvement 🧠 📚 ⚙️ 🛠️ 📈  
 
-Currently, I'm building innovative data engineering projects to further enhance my skills 👨‍💻 🏗️ 📡  
+I use this approach to build innovative data engineering projects to further enhance my skills 👨‍💻 🏗️ 📡  
 
-What I'm currently learning 🌱
+
+My Current Skillset 🤹🏼
 
 | Programming | Databases | Cloud    | Data Tools | DevOps   |
 |-------------|-----------|----------|------------|----------|
@@ -17,11 +22,13 @@ What I'm currently learning 🌱
 |             |           |          |            |          |
 
 
-Current Professional Certifications 🏆 ✅ 🏆 ✅ 
+
+Professional Certifications 🏆 ✅ 🏆 ✅ 
 * Snowflake SnowPro Core 
 * Astronomer Apache Airflow Fundamentals
 * Google Data Analytics
 * Linux Professional Institute LPI Essentials
+
 
 
 My Latest Data Engineering Projects 👇👇👇 
