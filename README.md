@@ -1,30 +1,30 @@
 ### Hi there 👋
 
-### Please take a look at my skills and projects 🛠️⚙️🛠️⚙️🛠️
+### I'm Rojer. Based in Irvine, CA 🏴󠁵󠁳󠁣󠁡󠁿  
 
-### My data engineering approach is rooted in the philosophy of kaizen, or embracing constant improvement 📈 📚 🧠 📈 📚 🧠 
+My data engineering approach is rooted in the philosophy of kaizen, or embracing constant improvement 🧠 📚 ⚙️ 🛠️ 📈  
 
-### Currently, I'm focused on building innovative data engineering projects to further enhance my skills in the field 👨‍💻 🏗️ 📡  
+Currently, I'm building innovative data engineering projects to further enhance my skills 👨‍💻 🏗️ 📡  
 
-### Skills Matrix 🔨
+What I'm currently learning 🌱
 
 | Programming | Databases | Cloud    | Data Tools | DevOps   |
 |-------------|-----------|----------|------------|----------|
 | Python      | PostgreSQL| Snowflake| Airflow    | Docker   |
 | SQL         | MySQL     | GCP      | dbt        | Git      |
-|             |           |          |            |          |
+| Bash        |           |          |            |          |
 |             |           |          |            |          |
 |             |           |          |            |          |
 
 
-### Current Professional Certifications 🏆 ✅ 🏆 ✅ 
+Current Professional Certifications 🏆 ✅ 🏆 ✅ 
 * Snowflake SnowPro Core 
 * Astronomer Apache Airflow Fundamentals
 * Google Data Analytics
 * Linux Professional Institute LPI Essentials
 
 
-### My Latest Data Engineering Projects 👇👇👇👇 
+My Latest Data Engineering Projects 👇👇👇 
 *  {placeholder for project repo link}
 
 <!--
