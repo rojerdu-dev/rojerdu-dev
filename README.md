@@ -6,7 +6,7 @@
 * I do data engineering 👷
 
 
-My philosophy is rooted in kaizen, or embracing constant improvement 🧠 📚 ⚙️ 🛠️ 📈  
+My philosophy is rooted in kaizen, or embracing constant improvement 🛠️ 📈  
 
 I use this approach to build innovative data engineering projects to further enhance my skills 👨‍💻 🏗️ 📡  
 
@@ -32,7 +32,8 @@ Professional Certifications 🏆 ✅ 🏆 ✅
 
 
 My Latest Data Engineering Projects 👇👇👇 
-*  {placeholder for project repo link}
+
+[Powerball Data Stream](https://github.com/rojerdu-dev/Powerball)
 
 <!--
 **rojerdu-dev/rojerdu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
