@@ -18,8 +18,6 @@ My Current Skillset 🤹🏼
 | Python      | PostgreSQL| Snowflake| Airflow    | Docker   |
 | SQL         | MySQL     | GCP      | dbt        | Git      |
 | Bash        |           |          |            |          |
-|             |           |          |            |          |
-|             |           |          |            |          |
 
 
 
@@ -33,7 +31,8 @@ Professional Certifications 🏆 ✅ 🏆 ✅
 
 My Latest Data Engineering Projects 👇👇👇 
 
-[Powerball Data Stream](https://github.com/rojerdu-dev/Powerball)
+* [Powerball Data Stream](https://github.com/rojerdu-dev/Powerball)
+* [Datastream Analytics CDC](https://github.com/rojerdu-dev/Datastream-Analytics-CDC)
 
 <!--
 **rojerdu-dev/rojerdu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
