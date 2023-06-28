@@ -31,8 +31,10 @@ Professional Certifications 🏆 ✅ 🏆 ✅
 
 My Latest Data Engineering Projects 👇👇👇 
 
-* [Powerball Data Stream](https://github.com/rojerdu-dev/Powerball)
-* [Datastream Analytics CDC](https://github.com/rojerdu-dev/Datastream-Analytics-CDC)
+* [Snowflake ELT Pipeline](https://github.com/rojerdu-dev/Payroll-ELT)
+* [Powerball - FastAPI & SQLite](https://github.com/rojerdu-dev/Powerball)
+* [Change Data Capture - GCP](https://github.com/rojerdu-dev/Datastream-Analytics-CDC)
+  
 
 <!--
 **rojerdu-dev/rojerdu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
