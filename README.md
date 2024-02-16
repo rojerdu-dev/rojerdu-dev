@@ -1,22 +1,28 @@
 ### 🏄 Rojer Du
-***
-I'm a freelance software developer, and this is where I build and showcase my projects one at a time. My main projects include backend REST APIs in Go and data pipelines using Python and Google Cloud.
+**`Software | Data | Cloud`**
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+Welcome to my page! 
 
-<hr style="border:2px solid gray">
+I'm Rojer, freelance software developer in California, and this is where I build and showcase my projects one at a time.<br> 
+My main projects include backend REST APIs in Go and data pipelines with Google Cloud.
+
+
 
 ### 🧰 Things I Code With
-<img align ="left" alt="Go" width="30px" styple="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
-<img align ="left" alt="Python" width="30px" styple="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align ="left" alt="Postgresql" width="30px" styple="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align ="left" alt="Mysql" width="30px" styple="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align ="left" alt="Google Cloud" width="30px" styple="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-<img align ="left" alt="Terraform" width="30px" styple="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
-<img align ="left" alt="Docker" width="30px" styple="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img align ="left" alt="Git" width="30px" styple="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align ="left" alt="Github" width="30px" styple="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<img align ="left" alt="Linux" width="30px" styple="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align ="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+<img align ="left" alt="Python" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align ="left" alt="Postgresql" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align ="left" alt="Mysql" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align ="left" alt="Google Cloud" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+<img align ="left" alt="Terraform" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
+<img align ="left" alt="Docker" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align ="left" alt="Git" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align ="left" alt="Github" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img align ="left" alt="Linux" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<br />
 
 <hr style="border:2px solid gray">
+
 
 ### 📊 Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=rojerdu-dev&theme=gruvbox&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
