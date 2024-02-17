@@ -3,8 +3,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 Welcome to my page! 
 
-I'm Rojer, freelance software developer in California, and this is where I build and showcase my projects one at a time.<br> 
-My main projects include backend REST APIs in Go and data pipelines with Google Cloud.
+My name is Rojer Du, and I'm a certified Google Cloud Associate Cloud Engineer who loves programming in Go. 
+
+My professional experiences include freelance software development and nearly 10 years of driving data insights in the risk assessment sector. 
+
+GitHub is where I showcase projects I've built, such as: 
+ - REST APIs (Go)
+ - Data Pipelines (Google Cloud)
 
 
 
