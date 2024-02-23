@@ -14,7 +14,7 @@ GitHub is where I showcase projects I've built, such as:
 ### 🧰 Things I Code With
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff)](#)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
-[![Static Badge](https://img.shields.io/badge/Google-Cloud-Platform?style=for-the-badge&logo=googlecloud&labelColor=gold&color=gold)](https://shields.io/badges/static-badge)
+[![Google Cloud](https://img.shields.io/badge/GoogleCloud-FFD700?style=for-the-badge&logo=googlecloud&labelColor=gold&color=gold)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](#)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=ffffff)](#)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=ffffff)](#)
