@@ -27,7 +27,7 @@ GitHub is where I showcase projects I've built, such as:
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
 
 
-<hr style="border:2px solid gray">
+---
 
 
 ### 📊 Stats
@@ -36,6 +36,22 @@ GitHub is where I showcase projects I've built, such as:
 <a href="http://www.github.com/rojerdu-dev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=rojerdu-dev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/rojerdu-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojerdu-dev&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+---
+***Professional Certifications***
+<details>
+<summary></summary>
+
+- [Google Cloud Certified Associate Cloud Engineer](https://google.accredible.com/cbf33d9f-b441-4326-98f3-1bd9367af9f5)
+- [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/earner/earned/badge/f95d3d04-0e6f-4b01-aebb-8b96a0ff5524)
+- [Snowflake SnowPro Core](https://www.credly.com/earner/earned/badge/a7f31024-e9c7-4f5c-b683-497253bb8485)
+- [Linux Professional Institute](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000555554/dgs93kc25q)
+
+</details>
+
+---
+
 
 <h3>Where to find me</h3>
 <p>
