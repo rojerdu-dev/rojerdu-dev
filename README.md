@@ -3,7 +3,7 @@ Welcome to my page!
 
 My name is Rojer Du, and I'm a certified Google Cloud Associate Cloud Engineer who loves programming in Go. 
 
-My professional experiences include freelance software development and nearly 10 years of driving data insights in the risk assessment sector. 
+My [professional experiences](#section-a) include freelance software development and nearly 10 years of driving data insights in the risk assessment sector. 
 
 GitHub is where I showcase projects I've built, such as: 
  - REST APIs (Go)
@@ -39,6 +39,7 @@ GitHub is where I showcase projects I've built, such as:
 
 
 ---
+## Section A
 ***Professional Certifications***
 <details>
 <summary></summary>
