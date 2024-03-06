@@ -10,7 +10,7 @@ GitHub is where I showcase projects I've built, such as:
  - Data Pipelines (Google Cloud)
 
 
-
+&nbsp;
 ### 🧰 Things I Code With
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff)](#)
 [![Static Badge](https://img.shields.io/badge/C%23-C%23?style=for-the-badge&logo=csharp&color=blue)](#)
@@ -27,6 +27,12 @@ GitHub is where I showcase projects I've built, such as:
 [![Concurrency](https://img.shields.io/badge/Concurrency-333333?style=for-the-badge)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
 
+
+
+&nbsp;
+### Current Projects
+- Learning **C# / .Net**
+- Reading *[Learn Concurrent Programming with Go](https://www.manning.com/books/learn-concurrent-programming-with-go)*
 
 ---
 
