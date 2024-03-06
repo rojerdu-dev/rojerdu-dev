@@ -48,7 +48,7 @@ GitHub is where I showcase projects I've built, such as:
 
 ## Professional Certifications
 <details>
-<summary></summary>
+<summary>👇</summary>
 
 - [Google Cloud Certified Associate Cloud Engineer](https://google.accredible.com/cbf33d9f-b441-4326-98f3-1bd9367af9f5)
 - [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/earner/earned/badge/f95d3d04-0e6f-4b01-aebb-8b96a0ff5524)
