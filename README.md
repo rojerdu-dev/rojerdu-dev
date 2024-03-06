@@ -13,6 +13,7 @@ GitHub is where I showcase projects I've built, such as:
 
 ### 🧰 Things I Code With
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff)](#)
+[![Static Badge](https://img.shields.io/badge/C%23-C%23?style=for-the-badge&logo=csharp&color=blue)](#)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
 [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%23FFD700?style=for-the-badge&logo=googlecloud)](#)
 [![Terraform](https://img.shields.io/badge/Terraform-message?style=for-the-badge&logo=terraform)](#)
