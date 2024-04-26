@@ -1,15 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 Welcome to my page! 
 
-My name is Rojer Du, and I'm a certified Google Cloud Associate Cloud Engineer who loves programming in Go. 
-
-My [professional experiences](#professional-certifications) include freelance software development and nearly 10 years of driving data insights in the risk assessment sector. 
-
-GitHub is where I showcase projects I've built, such as: 
- - REST APIs (Go)
- - Data Pipelines (Google Cloud)
-
-
 &nbsp;
 ### 🧰 Things I Code With
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff)](#)
@@ -30,8 +21,8 @@ GitHub is where I showcase projects I've built, such as:
 
 &nbsp;
 ### Current Projects
-- Learning **C# / .Net**
-- Reading *[Learn Concurrent Programming with Go](https://www.manning.com/books/learn-concurrent-programming-with-go)*
+- Learning **Concurrency in Go**
+- Reading *[100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)*
 
 ---
 
