@@ -13,13 +13,12 @@ GitHub is where I showcase projects I've built, such as:
 &nbsp;
 ### 🧰 Things I Code With
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff)](#)
-[![Static Badge](https://img.shields.io/badge/C%23-C%23?style=for-the-badge&logo=csharp&color=blue)](#)
+[![C#](https://img.shields.io/badge/C%23-C%23?style=for-the-badge&logo=csharp&color=blue)](#)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
 [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%23FFD700?style=for-the-badge&logo=googlecloud)](#)
 [![Terraform](https://img.shields.io/badge/Terraform-message?style=for-the-badge&logo=terraform)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](#)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=ffffff)](#)
-[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=ffffff)](#)
 [![GitHub Actions](https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=FFFFFF)](#)
 [![GoLand](https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=GoLand&logoColor=ffffff)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=ffffff)](#)
